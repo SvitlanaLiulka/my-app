@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Chat from './components/chat/chat';
+import Chat from './components/homework/bsa';
 
 
 ReactDOM.render(
