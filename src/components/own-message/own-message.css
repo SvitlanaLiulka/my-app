@@ -1,0 +1,50 @@
+.own-message {
+    display: flex;
+    justify-content: right;
+    padding: 10px;
+  }
+  
+.message-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+  }
+  
+.message-info .message-text {
+    background: #6495ED;
+    padding: 10px 15px;
+    border-radius: 20px;
+    font-size: 14px;
+    color: #fff;
+  }
+
+.message-info .message-time {
+    font-size: 11px;
+    color: #888;
+    margin-top: 20px;
+  }  
+ 
+.message-delete {
+    margin-right: 10px;
+    margin-top: 10px;
+    border: none;
+    cursor: pointer;
+    background: #fff;
+}
+
+.message-edit {
+    border: none;
+    margin-top: 10px;
+    cursor: pointer;
+    background: #fff;
+}
+
+.message-img {
+    width: 17px;
+    height: 17px;
+}
+
+  
+  
+
+
